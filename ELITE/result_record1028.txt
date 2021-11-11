@@ -1,0 +1,116 @@
+de-500.mobility.tcl
+1
+success nums: [202]
+loss nums: [118]
+loss in area selection nums: [0]
+total delivery time: 202
+total packets time: 320
+delivery rate: 0.631
+delivery rate in 0-800: 0.975
+delivery rate in 800-1600: 0.638
+delivery rate in 1600-2400: 0.475
+delivery rate in 2400-3200: 0.438
+average hops: 1236.4102839452253
+average hops in 0-800: 149.74595388301123
+average hops in 800-1600: 754.8718804242411
+average hops in 1600-2400: 1287.4023745617255
+average hops in 2400-3200: 1921.5697824778513
+average delay: 12.55427227722772
+average delay in 0-800: 2.8498625000000004
+average delay in 800-1600: 13.610375
+average delay in 1600-2400: 23.586987500000003
+average delay in 2400-3200: 35.124512499999994
+communication overhead: 330.84653465346537
+communication overhead in 0-800: 170.47435897435898
+communication overhead in 800-1600: 306.37254901960785
+communication overhead in 1600-2400: 419.2105263157895
+communication overhead in 2400-3200: 627.9714285714285
+routing overhead: 58255.8
+
+de-500.mobility.tcl
+3
+success nums: [197]
+loss nums: [123]
+loss in area selection nums: [0]
+total delivery time: 197
+total packets time: 320
+delivery rate: 0.616
+delivery rate in 0-800: 0.962
+delivery rate in 800-1600: 0.662
+delivery rate in 1600-2400: 0.475
+delivery rate in 2400-3200: 0.362
+average hops: 1146.6357003952883
+average hops in 0-800: 148.66408369750894
+average hops in 800-1600: 678.5558425278692
+average hops in 1600-2400: 1215.5226852832534
+average hops in 2400-3200: 1813.2563782852617
+average delay: 11.412928934010154
+average delay in 0-800: 2.7594625
+average delay in 800-1600: 12.568337499999998
+average delay in 1600-2400: 22.338
+average delay in 2400-3200: 33.274674999999995
+communication overhead: 317.9441624365482
+communication overhead in 0-800: 153.11688311688312
+communication overhead in 800-1600: 281.7169811320755
+communication overhead in 1600-2400: 456.6578947368421
+communication overhead in 2400-3200: 640.0344827586207
+routing overhead: 58255.8
+
+de-500.mobility.tcl
+3
+success nums: [196]
+loss nums: [124]
+loss in area selection nums: [0]
+total delivery time: 196
+total packets time: 320
+delivery rate: 0.612
+delivery rate in 0-800: 0.975
+delivery rate in 800-1600: 0.588
+delivery rate in 1600-2400: 0.475
+delivery rate in 2400-3200: 0.412
+average hops: 1142.6482838257555
+average hops in 0-800: 105.02150967529197
+average hops in 800-1600: 714.494062813635
+average hops in 1600-2400: 1311.2543722160133
+average hops in 2400-3200: 1758.396891486537
+average delay: 11.63579081632653
+average delay in 0-800: 2.0574874999999997
+average delay in 800-1600: 12.851399999999998
+average delay in 1600-2400: 23.942299999999996
+average delay in 2400-3200: 31.7532875
+communication overhead: 302.1275510204082
+communication overhead in 0-800: 132.80769230769232
+communication overhead in 800-1600: 270.7659574468085
+communication overhead in 1600-2400: 406.0263157894737
+communication overhead in 2400-3200: 627.3636363636364
+routing overhead: 58255.8
+
+de-500.mobility.tcl
+3
+success nums: [188]
+loss nums: [132]
+loss in area selection nums: [0]
+total delivery time: 188
+total packets time: 320
+delivery rate: 0.588
+delivery rate in 0-800: 0.888
+delivery rate in 800-1600: 0.638
+delivery rate in 1600-2400: 0.375
+delivery rate in 2400-3200: 0.45
+average hops: 1225.6976933565363
+average hops in 0-800: 165.2314166638245
+average hops in 800-1600: 703.9350307350413
+average hops in 1600-2400: 1610.0729207266684
+average hops in 2400-3200: 1783.3785567488462
+average delay: 12.395744680851065
+average delay in 0-800: 3.1921375
+average delay in 800-1600: 12.754537500000001
+average delay in 1600-2400: 29.05095
+average delay in 2400-3200: 32.196600000000004
+communication overhead: 318.8776595744681
+communication overhead in 0-800: 136.69014084507043
+communication overhead in 800-1600: 279.29411764705884
+communication overhead in 1600-2400: 457.96666666666664
+communication overhead in 2400-3200: 618.3611111111111
+routing overhead: 58255.8
+

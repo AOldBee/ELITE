@@ -1,0 +1,188 @@
+<edge id="-134813167#0" from="1481558109" to="4312167621" priority="6" type="highway.tertiary" shape="1922.76,891.71 2513.76,798.39 3049.38,746.35 3056.99,745.45">
+<lane id="-134813167#0_0" index="0" speed="22.22" length="1135.96" shape="1930.63,888.80 2513.50,796.76 3049.22,744.71 3056.80,743.81"/>
+</edge>
+<edge id="-134813167#1" from="1481558111" to="1481558109" priority="6" type="highway.tertiary">
+<lane id="-134813167#1_0" index="0" speed="22.22" length="447.25" shape="1473.29,965.68 1914.34,891.45"/>
+</edge>
+<edge id="-134813169" from="1481558092" to="1481558087" priority="6" type="highway.tertiary">
+<lane id="-134813169_0" index="0" speed="22.22" length="397.24" shape="556.69,346.49 949.94,290.34"/>
+</edge>
+<edge id="-134813170#0" from="1481558096" to="4312167616" priority="4" type="highway.residential" shape="1895.10,627.01 3024.91,513.51 3037.79,511.70">
+<lane id="-134813170#0_0" index="0" speed="13.89" length="1140.38" shape="1902.96,624.56 3024.75,511.87 3037.56,510.07"/>
+</edge>
+<edge id="-134813170#1" from="1481558098" to="1481558096" priority="4" type="highway.residential">
+<lane id="-134813170#1_0" index="0" speed="13.89" length="170.80" shape="1717.18,645.62 1886.88,626.29"/>
+</edge>
+<edge id="-134813171" from="1481558120" to="1481558106" priority="6" type="highway.tertiary">
+<lane id="-134813171_0" index="0" speed="22.22" length="259.44" shape="669.16,1096.24 628.42,840.03"/>
+</edge>
+<edge id="-134813172" from="1481558102" to="1481558100" priority="6" type="highway.tertiary">
+<lane id="-134813172_0" index="0" speed="22.22" length="397.88" shape="1036.61,760.87 1428.25,690.71"/>
+</edge>
+<edge id="-134813174#0" from="1481558085" to="1481558087" priority="6" type="highway.tertiary">
+<lane id="-134813174#0_0" index="0" speed="22.22" length="410.62" shape="1367.17,238.32 960.11,292.27"/>
+</edge>
+<edge id="-134813174#1" from="4253639831" to="1481558085" priority="6" type="highway.tertiary">
+<lane id="-134813174#1_0" index="0" speed="22.22" length="464.67" shape="1839.63,196.81 1376.72,237.27"/>
+</edge>
+<edge id="-134813177" from="1481558092" to="1481558070" priority="6" type="highway.tertiary">
+<lane id="-134813177_0" index="0" speed="22.22" length="215.81" shape="549.66,344.33 510.15,132.17"/>
+</edge>
+<edge id="-134813179" from="1481558100" to="1481558098" priority="6" type="highway.tertiary">
+<lane id="-134813179_0" index="0" speed="22.22" length="282.61" shape="1437.89,689.10 1717.14,645.63"/>
+</edge>
+<edge id="-134813181" from="1481558106" to="1481558102" priority="6" type="highway.tertiary">
+<lane id="-134813181_0" index="0" speed="22.22" length="399.55" shape="633.66,832.05 1027.12,762.56"/>
+</edge>
+<edge id="-134813182" from="1481558116" to="1481558111" priority="6" type="highway.tertiary">
+<lane id="-134813182_0" index="0" speed="22.22" length="391.78" shape="1077.39,1032.74 1463.67,967.31"/>
+</edge>
+<edge id="-134813185#0" from="1481558085" to="1481558065" priority="6" type="highway.tertiary">
+<lane id="-134813185#0_0" index="0" speed="22.22" length="165.64" shape="1369.39,231.56 1346.45,67.51"/>
+</edge>
+<edge id="-134813185#1" from="1481558100" to="1481558085" priority="6" type="highway.tertiary">
+<lane id="-134813185#1_0" index="0" speed="22.22" length="449.85" shape="1431.10,686.92 1370.71,241.14"/>
+</edge>
+<edge id="-134813185#2" from="1481558111" to="1481558100" priority="6" type="highway.tertiary">
+<lane id="-134813185#2_0" index="0" speed="22.22" length="269.10" shape="1466.49,963.49 1432.37,696.56"/>
+</edge>
+<edge id="-134813185#3" from="1481558153" to="1481558111" priority="6" type="highway.tertiary" shape="1588.76,1842.79 1528.55,1416.05 1527.02,1407.51 1468.75,968.12">
+<lane id="-134813185#3_0" index="0" speed="22.22" length="878.02" shape="1587.13,1843.02 1526.91,1416.28 1525.39,1407.80 1467.75,973.17"/>
+</edge>
+<edge id="-134813187" from="1481558106" to="1481558092" priority="6" type="highway.tertiary">
+<lane id="-134813187_0" index="0" speed="22.22" length="482.17" shape="626.83,830.02 551.30,353.81"/>
+</edge>
+<edge id="-134813188" from="1481558094" to="1481558092" priority="6" type="highway.tertiary" shape="0.00,432.72 188.71,404.04 552.17,348.81">
+<lane id="-134813188_0" index="0" speed="22.22" length="553.65" shape="-0.25,431.09 188.46,402.41 547.12,347.91"/>
+</edge>
+<edge id="-134813192" from="1481558127" to="1481558120" priority="4" type="highway.residential">
+<lane id="-134813192_0" index="0" speed="13.89" length="415.48" shape="255.78,1162.02 666.57,1099.78"/>
+</edge>
+<edge id="-134813194" from="1481558120" to="1481558116" priority="4" type="highway.residential">
+<lane id="-134813194_0" index="0" speed="13.89" length="397.01" shape="675.97,1098.30 1067.80,1034.34"/>
+</edge>
+<edge id="-134813201#0" from="1481558087" to="4253639734" priority="6" type="highway.tertiary" shape="955.08,291.27 917.35,108.54 916.84,97.52">
+<lane id="-134813201#0_0" index="0" speed="22.22" length="192.92" shape="952.46,286.75 915.74,108.88 915.19,97.60"/>
+</edge>
+<edge id="-134813201#1" from="1481558102" to="1481558087" priority="6" type="highway.tertiary">
+<lane id="-134813201#1_0" index="0" speed="22.22" length="468.68" shape="1029.77,758.87 954.24,296.32"/>
+</edge>
+<edge id="-134813201#2" from="1481558116" to="1481558102" priority="6" type="highway.tertiary">
+<lane id="-134813201#2_0" index="0" speed="22.22" length="265.22" shape="1070.58,1030.66 1031.26,768.37"/>
+</edge>
+<edge id="-134813201#3" from="2153507827" to="1481558116" priority="6" type="highway.tertiary" shape="1062.57,3079.37 1052.06,2879.69 1062.81,2432.52 1071.71,2062.96 1078.14,1795.49 1086.75,1437.92 1086.96,1429.14 1079.06,1091.31 1072.92,1035.17">
+<lane id="-134813201#3_0" index="0" speed="22.22" length="2040.30" shape="1060.92,3079.46 1050.42,2879.78 1061.17,2432.48 1070.06,2062.93 1076.49,1795.45 1085.10,1437.88 1085.31,1429.10 1077.41,1091.35 1071.82,1040.25"/>
+</edge>
+<edge id="-134813205#0" from="4253639831" to="4253639732" priority="7" type="highway.secondary" shape="1847.60,194.46 1825.90,10.95 1824.61,0.00">
+<lane id="-134813205#0_0" index="0" speed="27.78" length="190.86" shape="1842.11,190.12 1820.99,11.53 1819.69,0.58"/>
+<lane id="-134813205#0_1" index="1" speed="27.78" length="190.86" shape="1845.38,189.74 1824.26,11.14 1822.97,0.19"/>
+</edge>
+<edge id="-134813205#1" from="1481558096" to="4253639831" priority="7" type="highway.secondary" shape="1895.10,627.01 1860.59,307.53 1847.60,194.46">
+<lane id="-134813205#1_0" index="0" speed="27.78" length="425.84" shape="1889.67,622.86 1855.67,308.06 1843.21,199.57"/>
+<lane id="-134813205#1_1" index="1" speed="27.78" length="425.84" shape="1892.95,622.50 1858.95,307.71 1846.49,199.19"/>
+</edge>
+<edge id="-134813205#2" from="1481558109" to="1481558096" priority="7" type="highway.secondary">
+<lane id="-134813205#2_0" index="0" speed="27.78" length="256.23" shape="1917.31,887.15 1890.68,632.31"/>
+<lane id="-134813205#2_1" index="1" speed="27.78" length="256.23" shape="1920.59,886.81 1893.96,631.97"/>
+</edge>
+<edge id="-134813205#3" from="2153507850" to="1481558109" priority="7" type="highway.secondary" shape="2150.51,2862.62 2143.93,2840.09 2122.41,2766.49 2047.43,2074.02 2029.21,1862.42 1978.98,1391.54 1978.05,1382.80 1944.21,1096.97 1922.76,891.71">
+<lane id="-134813205#3_0" index="0" speed="27.78" length="1981.03" shape="2145.76,2864.01 2139.17,2841.48 2117.53,2767.46 2042.51,2074.55 2024.28,1862.84 1974.06,1392.06 1973.13,1383.33 1939.29,1097.55 1918.38,897.36"/>
+<lane id="-134813205#3_1" index="1" speed="27.78" length="1981.03" shape="2148.93,2863.08 2142.34,2840.55 2120.78,2766.82 2045.79,2074.20 2027.56,1862.56 1977.34,1391.71 1976.41,1382.98 1942.57,1097.16 1921.66,897.02"/>
+</edge>
+<edge id="-902289064" from="8380864291" to="1481558106" priority="6" type="highway.tertiary" shape="31.45,1036.49 186.20,981.21 629.21,834.51">
+<lane id="-902289064_0" index="0" speed="22.22" length="625.71" shape="30.89,1034.94 185.64,979.66 623.64,834.62"/>
+</edge>
+<edge id="134813167#0" from="4312167621" to="1481558109" priority="6" type="highway.tertiary" shape="3056.99,745.45 3049.38,746.35 2513.76,798.39 1922.76,891.71">
+<lane id="134813167#0_0" index="0" speed="22.22" length="1135.83" shape="3057.18,747.09 3049.57,747.99 2513.92,800.03 1931.15,892.06"/>
+</edge>
+<edge id="134813167#1" from="1481558109" to="1481558111" priority="6" type="highway.tertiary">
+<lane id="134813167#1_0" index="0" speed="22.22" length="447.25" shape="1914.88,894.71 1473.83,968.94"/>
+</edge>
+<edge id="134813169" from="1481558087" to="1481558092" priority="6" type="highway.tertiary">
+<lane id="134813169_0" index="0" speed="22.22" length="397.24" shape="950.41,293.61 557.16,349.76"/>
+</edge>
+<edge id="134813170#0" from="4312167616" to="1481558096" priority="4" type="highway.residential" shape="3037.79,511.70 3024.91,513.51 1895.10,627.01">
+<lane id="134813170#0_0" index="0" speed="13.89" length="1140.50" shape="3038.02,513.34 3025.14,515.14 1903.29,627.85"/>
+</edge>
+<edge id="134813170#1" from="1481558096" to="1481558098" priority="4" type="highway.residential">
+<lane id="134813170#1_0" index="0" speed="13.89" length="170.68" shape="1887.26,629.56 1717.67,648.89"/>
+</edge>
+<edge id="134813171" from="1481558106" to="1481558120" priority="6" type="highway.tertiary">
+<lane id="134813171_0" index="0" speed="22.22" length="259.44" shape="631.68,839.51 672.42,1095.73"/>
+</edge>
+<edge id="134813172" from="1481558100" to="1481558102" priority="6" type="highway.tertiary">
+<lane id="134813172_0" index="0" speed="22.22" length="397.88" shape="1428.83,693.96 1037.19,764.12"/>
+</edge>
+<edge id="134813174#0" from="1481558087" to="1481558085" priority="6" type="highway.tertiary">
+<lane id="134813174#0_0" index="0" speed="22.22" length="410.62" shape="959.67,289.00 1366.74,235.05"/>
+</edge>
+<edge id="134813174#1" from="1481558085" to="4253639831" priority="6" type="highway.tertiary">
+<lane id="134813174#1_0" index="0" speed="22.22" length="464.67" shape="1376.43,233.99 1839.34,193.53"/>
+</edge>
+<edge id="134813177" from="1481558070" to="1481558092" priority="6" type="highway.tertiary">
+<lane id="134813177_0" index="0" speed="22.22" length="215.81" shape="513.39,131.57 552.91,343.73"/>
+</edge>
+<edge id="134813179" from="1481558098" to="1481558100" priority="6" type="highway.tertiary">
+<lane id="134813179_0" index="0" speed="22.22" length="282.48" shape="1717.51,648.91 1438.39,692.36"/>
+</edge>
+<edge id="134813181" from="1481558102" to="1481558106" priority="6" type="highway.tertiary">
+<lane id="134813181_0" index="0" speed="22.22" length="399.55" shape="1027.70,765.81 634.23,835.30"/>
+</edge>
+<edge id="134813182" from="1481558111" to="1481558116" priority="6" type="highway.tertiary">
+<lane id="134813182_0" index="0" speed="22.22" length="391.78" shape="1464.22,970.56 1077.94,1036.00"/>
+</edge>
+<edge id="134813185#0" from="1481558065" to="1481558085" priority="6" type="highway.tertiary">
+<lane id="134813185#0_0" index="0" speed="22.22" length="165.64" shape="1349.72,67.05 1372.66,231.10"/>
+</edge>
+<edge id="134813185#1" from="1481558085" to="1481558100" priority="6" type="highway.tertiary">
+<lane id="134813185#1_0" index="0" speed="22.22" length="449.85" shape="1373.98,240.70 1434.37,686.48"/>
+</edge>
+<edge id="134813185#2" from="1481558100" to="1481558111" priority="6" type="highway.tertiary">
+<lane id="134813185#2_0" index="0" speed="22.22" length="269.10" shape="1435.64,696.14 1469.76,963.07"/>
+</edge>
+<edge id="134813185#3" from="1481558111" to="1481558153" priority="6" type="highway.tertiary" shape="1468.75,968.12 1527.02,1407.51 1528.55,1416.05 1588.76,1842.79">
+<lane id="134813185#3_0" index="0" speed="22.22" length="877.99" shape="1471.02,972.73 1528.65,1407.29 1530.17,1415.76 1590.39,1842.56"/>
+</edge>
+<edge id="134813187" from="1481558092" to="1481558106" priority="6" type="highway.tertiary">
+<lane id="134813187_0" index="0" speed="22.22" length="482.17" shape="554.55,353.29 630.09,829.50"/>
+</edge>
+<edge id="134813188" from="1481558092" to="1481558094" priority="6" type="highway.tertiary" shape="552.17,348.81 188.71,404.04 0.00,432.72">
+<lane id="134813188_0" index="0" speed="22.22" length="553.65" shape="547.62,351.17 188.96,405.67 0.25,434.35"/>
+</edge>
+<edge id="134813192" from="1481558120" to="1481558127" priority="4" type="highway.residential">
+<lane id="134813192_0" index="0" speed="13.89" length="415.48" shape="667.07,1103.05 256.28,1165.28"/>
+</edge>
+<edge id="134813194" from="1481558116" to="1481558120" priority="4" type="highway.residential">
+<lane id="134813194_0" index="0" speed="13.89" length="397.01" shape="1068.33,1037.60 676.51,1101.56"/>
+</edge>
+<edge id="134813201#0" from="4253639734" to="1481558087" priority="6" type="highway.tertiary" shape="916.84,97.52 917.35,108.54 955.08,291.27">
+<lane id="134813201#0_0" index="0" speed="22.22" length="192.40" shape="918.49,97.44 919.00,108.47 955.70,286.08"/>
+</edge>
+<edge id="134813201#1" from="1481558087" to="1481558102" priority="6" type="highway.tertiary">
+<lane id="134813201#1_0" index="0" speed="22.22" length="468.68" shape="957.49,295.79 1033.03,758.34"/>
+</edge>
+<edge id="134813201#2" from="1481558102" to="1481558116" priority="6" type="highway.tertiary">
+<lane id="134813201#2_0" index="0" speed="22.22" length="265.22" shape="1034.52,767.88 1073.84,1030.17"/>
+</edge>
+<edge id="134813201#3" from="1481558116" to="2153507827" priority="6" type="highway.tertiary" shape="1072.92,1035.17 1079.06,1091.31 1086.96,1429.14 1086.75,1437.92 1078.14,1795.49 1071.71,2062.96 1062.81,2432.52 1052.06,2879.69 1062.57,3079.37">
+<lane id="134813201#3_0" index="0" speed="22.22" length="2040.49" shape="1075.10,1039.89 1080.70,1091.13 1088.61,1429.11 1088.40,1437.96 1079.79,1795.53 1073.35,2063.00 1064.46,2432.56 1053.71,2879.73 1064.22,3079.29"/>
+</edge>
+<edge id="134813205#0" from="4253639732" to="4253639831" priority="7" type="highway.secondary" shape="1824.61,0.00 1825.90,10.95 1847.60,194.46">
+<lane id="134813205#0_0" index="0" speed="27.78" length="190.86" shape="1829.52,-0.58 1830.82,10.37 1851.94,188.96"/>
+<lane id="134813205#0_1" index="1" speed="27.78" length="190.86" shape="1826.24,-0.19 1827.54,10.76 1848.66,189.35"/>
+</edge>
+<edge id="134813205#1" from="4253639831" to="1481558096" priority="7" type="highway.secondary" shape="1847.60,194.46 1860.59,307.53 1895.10,627.01">
+<lane id="134813205#1_0" index="0" speed="27.78" length="425.89" shape="1853.04,198.44 1865.51,306.97 1899.51,621.79"/>
+<lane id="134813205#1_1" index="1" speed="27.78" length="425.89" shape="1849.76,198.82 1862.23,307.34 1896.23,622.15"/>
+</edge>
+<edge id="134813205#2" from="1481558096" to="1481558109" priority="7" type="highway.secondary">
+<lane id="134813205#2_0" index="0" speed="27.78" length="256.23" shape="1900.52,631.28 1927.16,886.12"/>
+<lane id="134813205#2_1" index="1" speed="27.78" length="256.23" shape="1897.24,631.62 1923.87,886.47"/>
+</edge>
+<edge id="134813205#3" from="1481558109" to="2153507850" priority="7" type="highway.secondary" shape="1922.76,891.71 1944.21,1096.97 1978.05,1382.80 1978.98,1391.54 2029.21,1862.42 2047.43,2074.02 2122.41,2766.49 2143.93,2840.09 2150.51,2862.62">
+<lane id="134813205#3_0" index="0" speed="27.78" length="1979.84" shape="1928.22,896.33 1949.13,1096.45 1982.97,1382.22 1983.90,1391.02 2034.13,1861.89 2052.36,2073.60 2127.28,2765.53 2148.68,2838.70 2155.27,2861.23"/>
+<lane id="134813205#3_1" index="1" speed="27.78" length="1979.84" shape="1924.94,896.68 1945.85,1096.79 1979.69,1382.61 1980.62,1391.36 2030.85,1862.24 2049.07,2073.88 2124.03,2766.17 2145.51,2839.62 2152.10,2862.16"/>
+</edge>
+<edge id="902289064" from="1481558106" to="8380864291" priority="6" type="highway.tertiary" shape="629.21,834.51 186.20,981.21 31.45,1036.49">
+<lane id="902289064_0" index="0" speed="22.22" length="625.64" shape="624.68,837.75 186.72,982.78 32.00,1038.05"/>
+</edge>
